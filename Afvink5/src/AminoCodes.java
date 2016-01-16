@@ -69,7 +69,7 @@ public class AminoCodes {
 
         else {
 
-            System.out.println("Voer een geldige 1 of 3 letterige code in.\n");
+            System.out.println("No way José, wel een AA-sequentie invoeren!\n");
             String code2 = vraagAmino();
             geefComplement(code2);
 
