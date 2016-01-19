@@ -13,7 +13,7 @@ public class GeneCompare {
     }
 
     //Vult de hashsets op basis van de input gegeven in de 3 input velden.
-    public static HashSet[] vulHasj(GUI gui) {
+    public static HashSet[] fillhash(GUI gui) {
 
         HashSet<String> hs1 = new HashSet<String>();
         HashSet<String> hs2 = new HashSet<String>();

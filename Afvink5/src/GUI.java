@@ -136,7 +136,7 @@ public class GUI extends JFrame implements ActionListener {
     @Override
     public void actionPerformed(ActionEvent e) {
 
-        hsCollection = GeneCompare.vulHasj(this);
+        hsCollection = GeneCompare.fillhash(this);
         bepaalMethode();
 
     }
